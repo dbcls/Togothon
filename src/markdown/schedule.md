@@ -4,4 +4,5 @@
 
 * 2025-02-20〜21 [Togothon149](https://github.com/dbcls/Togothon/wiki/Togothon149) @ 一橋大学一橋講堂会議室 201,202
 * 2025-03-24〜25 [Togothon150](https://github.com/dbcls/Togothon/wiki/Togothon150)  @ 京都大学東京オフィス会議室
+* 2025-04-21〜22 or 24〜25
 
