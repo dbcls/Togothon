@@ -2,7 +2,6 @@
 
 場所未定のままの場合は、基本的に DBCLS 柏の葉キャンパス駅前での開催となります。
 
-* 2025-09-29〜30 [Togothon156](https://github.com/dbcls/Togothon/wiki/Togothon156)  @ GLOBAL LIFESCIENCE HUB (日本橋室町)
 * 2025-10-23〜24 [Togothon157](https://github.com/dbcls/Togothon/wiki/Togothon157) @ DBCLS柏
 * 2025-11-20〜21 Togothon158 @ DBCLS柏
 * 2025-12-22〜23 Togothon159 @ 京都大学東京オフィス（予定）
