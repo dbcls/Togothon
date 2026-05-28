@@ -2,7 +2,7 @@
 
 場所未定のままの場合は、基本的に DBCLS 柏の葉キャンパス駅前での開催となります。
 
-* 2026-05-28〜29 [Togothon164](https://github.com/dbcls/Togothon/wiki/Togothon164)  @ CRIK信濃町
-* 2026-06-18〜19 Togothon165 @ 未定 (CRIK信濃町を予定)
+* 2026-05-28〜29 [Togothon164](https://github.com/dbcls/Togothon/wiki/Togothon164) @ CRIK信濃町
+* 2026-06-18〜19 [Togothon165](https://github.com/dbcls/Togothon/wiki/Togothon165) @ CRIK信濃町
 * 2026-07-23〜24 Togothon165 @ 未定 (CRIK信濃町を予定)
 * 2026-08-20〜21 Togothon165 @ 未定 (GLHを予定)
