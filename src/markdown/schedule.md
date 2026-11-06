@@ -5,5 +5,5 @@
 * 2026-11-26〜27 [Togothon170](https://github.com/dbcls/Togothon/wiki/Togothon170) @ DBCLS柏
 * 2026-12-21〜22 Togothon171 @ CRIK信濃町
 * 2027-01-25〜26 Togothon172 @ 仙台 ToMMo
-* 2027-02-25〜26 Togothon173 @ GLOBAL LIFESCIENCE HUB　カンファレンスルーム (日本橋室町)
-* 2027-03-25〜26 Togothon174 @ CRIK信濃町 (予定)
+* 2027-02-25〜26 Togothon173 @ GLOBAL LIFESCIENCE HUB (日本橋室町)
+* 2027-03-25〜26 Togothon174 @ 未定
